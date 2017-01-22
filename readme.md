@@ -1,13 +1,13 @@
 # Hide wingpanel
-Hi, Here is a so (rly) simple script to manage **hide** and **show** **wingpanel**.  
-**wingpanel** is the top panel in elementary os.  
-It tested on **elementary os 0.4**. 2017.
+Hi, Here is a so (rly) simple program that manage **hiding** and **showing** the **wingpanel**.  
+**wingpanel** is the **top panel** in elementary os.  
+I tested it on **elementary os 0.4**. 2017.
 
 I just noticed that some users want to **hide** the **wingpanel** (including myself), and there is no option available to do this.  
 so i just did this with simple **killall** and **start**.
 
 ## Table of Contents
-+ [Install](#Install)
++ [Install](#install)
 + [Usage](#usage)
 	+ By keyboard shortcut (recommended)
 	+ By command
@@ -35,7 +35,7 @@ done!
 
 ---
 ### License
-This project mainly has no license! You may consider this as **Public Domain**, **CC0** or **unlicense**. But I use some material that has **their own licenses**, you can see the **license file** for more details.
+This project mainly has no license! You may consider this as **Public Domain**, **CC0** or **unlicense**.
 
 ---
 ### Donate Bitcoin
