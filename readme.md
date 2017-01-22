@@ -27,7 +27,7 @@ done!
 + <big>**By keyboard shortcut**</big>
 	+ Define keyboard shortcut like this:
 	
-	<a href="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png" target="_blank"><img src="ks.png"/></a>
+	<a href="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png" target="_blank"><img src="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png"/></a>
 
 + <big>**By command**</big>
 	+ Run `hide_top_panel` in terminal to hide the panel.
