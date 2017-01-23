@@ -11,6 +11,7 @@ so i just did this with simple **killall** and **start**.
 + [Usage](#usage)
 	+ By keyboard shortcut (recommended)
 	+ By command
++ [Uninstall](#uninstall)
 + [License](#license)
 + [Donate](#donate-bitcoin)
 
@@ -18,6 +19,7 @@ so i just did this with simple **killall** and **start**.
 ### Install
 + `git clone https://github.com/mlibre/hide-wingpanel.git`
 + `cd hide-wingpanel`
++ `chmod +x show_hide_top_panel.bash`
 + `sudo ./show_hide_top_panel.bash`
 
 done!
@@ -32,6 +34,14 @@ done!
 + <big>**By command**</big>
 	+ Run `hide_top_panel` in terminal to hide the panel.
 	+ Run `show_top_panel` in terminal to show the panel.
+
+---
+### Uninstall
++ `cd hide-wingpanel`
++ `chmod +x uninstall.bash`
++ `sudo ./uninstall.bash`
+
+done!
 
 ---
 ### License
