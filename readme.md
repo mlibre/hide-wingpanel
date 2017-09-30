@@ -29,11 +29,10 @@ done!
 + <big>**By keyboard shortcut**</big>
 	+ Define keyboard shortcut like this:
 	
-	<a href="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png" target="_blank"><img src="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png"/></a>
+	<a href="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png" target="_blank"><img src="https://github.com/mlibre/hide-wingpanel/blob/master/ks2.png"/></a>
 
 + <big>**By command**</big>
-	+ Run `hide_top_panel` in terminal to hide the panel.
-	+ Run `show_top_panel` in terminal to show the panel.
+	+ Run `hide_top_panel` in terminal to hide the panel and again to get it back.
 
 ---
 ### Uninstall
