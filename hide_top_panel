@@ -1,0 +1,10 @@
+#!/bin/bash
+result=`ps aux | grep -i "Wingpanel" | grep -v "grep" | wc -l`
+if [ $result -ge 1 ]
+   then
+	killall cerbere &> /dev/null
+	wait
+	killall wingpanel &> /dev/null
+      else
+        wingpanel &> /dev/null &
+fi
