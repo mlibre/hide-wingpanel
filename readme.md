@@ -31,6 +31,8 @@ done!
 	
 	<a href="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png" target="_blank"><img src="https://github.com/mlibre/hide-wingpanel/blob/master/ks2.png"/></a>
 
++ <big>**By hot corners**</big>
+	+ Go to System-Settings -> Workspace -> Hot-Corners -> and put custom command for your preferred corner. Then write `hide_top_panel` to the custom shortcut field.
 + <big>**By command**</big>
 	+ Run `hide_top_panel` in terminal to hide the panel and again to get it back.
 
