@@ -6,6 +6,8 @@ I tested it on **elementary os 0.4**. 2017.
 I just noticed that some users want to **hide** the **wingpanel** (including myself), and there is no option available to do this.  
 so i just did this with simple **killall** and **start**.
 
+[Here](http://bepoweruser.com/2019/09/09/hide-wingpanel-in-elementary-os-juno/) is a nice brief post about the script and installation. [bepoweruser](http://bepoweruser.com/2019/09/09/hide-wingpanel-in-elementary-os-juno/)
+
 ## Table of Contents
 + [Install](#install)
 + [Usage](#usage)
