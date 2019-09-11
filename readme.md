@@ -1,5 +1,5 @@
 # Hide wingpanel
-Hi, Here is a so (rly) simple program that can manage **hiding** and **showing** the **wingpanel**.  
+Hi, Here is a so (rly) simple program that can manage **hiding** and **showing** the **wingpanel**. 
 **wingpanel** is the **top panel** in elementary os.  
 I tested it on **elementary os 0.4**. 2017.
 
