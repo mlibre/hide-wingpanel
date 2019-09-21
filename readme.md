@@ -52,6 +52,6 @@ This project mainly has no license! You may consider this as **Public Domain**, 
 
 ---
 ### Donate Bitcoin
-My **Bitcoin Wallet** Address: `0x2097c74a0b9d5e89206cb9976fa64624d721e3cd`
+My **Bitcoin Wallet** Address: `3ASnE6ZPk4tYWvEGzwFiMp8wiMtJ1UquAV`
 
 ---
