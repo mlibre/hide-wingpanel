@@ -51,7 +51,8 @@ done!
 This project mainly has no license! You may consider this as **Public Domain**, **CC0** or **unlicense**.
 
 ---
-### Donate Bitcoin
-My **Bitcoin Wallet** Address: `3ASnE6ZPk4tYWvEGzwFiMp8wiMtJ1UquAV`
+## Donate
+My Coinbase Bitcoin Wallet Address:
+> 3ASnE6ZPk4tYWvEGzwFiMp8wiMtJ1UquAV
 
 ---
