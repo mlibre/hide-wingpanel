@@ -52,7 +52,7 @@ This project mainly has no license! You may consider this as **Public Domain**, 
 
 ---
 ## Donate
-My Coinbase Bitcoin Wallet Address:
-> 3ASnE6ZPk4tYWvEGzwFiMp8wiMtJ1UquAV
+My Bitcoin Address:
+> 3JfNjydkEgKGjsnrU1SoCCAv1q2yTuCoDY
 
 ---
