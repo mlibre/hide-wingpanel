@@ -1,10 +1,10 @@
-# Hide wingpanel
-Hi, Here is a so (rly) simple program that can manage **hiding** and **showing** the **wingpanel**. 
-**wingpanel** is the **top panel** in elementary os.  
+# Hide Wingpanel
+Hi, Here is a so (rly) simple program that can manage **hiding** and **showing** the **Wingpanel**. 
+**Wingpanel** is the **top panel** in elementary os.  
 I tested it on **elementary os 0.4**. 2017.
 
-I just noticed that some users want to **hide** the **wingpanel** (including myself), and there is no option available to do this.  
-so i just did this with simple **killall** and **start**.
+I just noticed that some users want to **hide** the **Wingpanel** (including myself), and there is no option available to do this.  
+so I just did this with simple **killall** and **start**.
 
 [Here](http://bepoweruser.com/2019/09/09/hide-wingpanel-in-elementary-os-juno/) is a nice brief post about the script and installation. [bepoweruser](http://bepoweruser.com/2019/09/09/hide-wingpanel-in-elementary-os-juno/)
 
@@ -51,8 +51,6 @@ done!
 This project mainly has no license! You may consider this as **Public Domain**, **CC0** or **unlicense**.
 
 ---
-## Donate
-My Bitcoin Address:
-> 3JfNjydkEgKGjsnrU1SoCCAv1q2yTuCoDY
-
----
+# Donate or ...
+My ETH Address:
+> 0xc9b64496986E7b6D4A68fDF69eF132A35e91838e
