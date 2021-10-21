@@ -2,12 +2,15 @@
 result=`ps aux | grep -i "Wingpanel" | grep -v "grep" | wc -l`
 if [ $result -ge 1 ]
    then
+   		killall io.elementary.wingpanel &> /dev/null;
 		killall cerbere &> /dev/null;
 		killall wingpanel &> /dev/null;
 		killall cerbere &> /dev/null;
 		killall wingpanel &> /dev/null;
 		killall cerbere &> /dev/null;
 		killall wingpanel &> /dev/null;
+		killall io.elementary.wingpanel &> /dev/null;
 	else
 		wingpanel &> /dev/null &
+		io.elementary.wingpanel &> /dev/null &
 fi
