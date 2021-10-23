@@ -1,18 +1,16 @@
 # Hide Wingpanel
-Hi, Here is a so (rly) simple program that can manage **hiding** and **showing** the **Wingpanel**. 
+Hi, Here is a simple program to manage **hiding** and **showing** the elementary os **Wingpanel**. 
 **Wingpanel** is the **top panel** in elementary os.  
-I tested it on **elementary os 0.4**. 2017.
 
-I just noticed that some users want to **hide** the **Wingpanel** (including myself), and there is no option available to do this.  
-so I just did this with simple **killall** and **start**.
-
-[Here](http://bepoweruser.com/2019/09/09/hide-wingpanel-in-elementary-os-juno/) is a nice brief post about the script and installation. [bepoweruser](http://bepoweruser.com/2019/09/09/hide-wingpanel-in-elementary-os-juno/)
+I just noticed that some users want to **hide** the **Wingpanel**, and there is no option available to do this.  
+so I wrote this program. Two simple **killall** and **start** commands.
 
 ## Table of Contents
 + [Install](#install)
 + [Usage](#usage)
-	+ By keyboard shortcut (recommended)
-	+ By command
+	+[By keyboard shortcut](#By-keyboard-shortcut)
+	+[By hot corners](#By-hot-corners)
+	+[By command](#By-command)
 + [Uninstall](#uninstall)
 + [License](#license)
 + [Donate](#donate-bitcoin)
@@ -28,14 +26,16 @@ done!
 
 ---
 ### Usage
-+ <big>**By keyboard shortcut**</big>
+
+#### By keyboard shortcut
 	+ Define keyboard shortcut like this:
 	
 	<a href="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png" target="_blank"><img src="https://github.com/mlibre/hide-wingpanel/blob/master/ks2.png"/></a>
 
-+ <big>**By hot corners**</big>
+#### By hot corners
 	+ Go to System-Settings -> Workspace -> Hot-Corners -> and put custom command for your preferred corner. Then write `hide_top_panel` to the custom shortcut field.
-+ <big>**By command**</big>
+
+#### By command
 	+ Run `hide_top_panel` in terminal to hide the panel and again to get it back.
 
 ---
