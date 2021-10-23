@@ -28,7 +28,6 @@ done!
 ### Usage
 
 #### By keyboard shortcut
-
 * Define keyboard shortcut like this:
 	
 	<a href="https://github.com/mlibre/hide-wingpanel/blob/master/ks.png" target="_blank"><img src="https://github.com/mlibre/hide-wingpanel/blob/master/ks2.png"/></a>
@@ -37,7 +36,7 @@ done!
 * Go to System-Settings -> Workspace -> Hot-Corners -> and put custom command for your preferred corner. Then write `hide_top_panel` to the custom shortcut field.
 
 #### By command
-* Run `hide_top_panel` in terminal to hide the panel and again to get it back.
+* Run `hide top panel` in the terminal to toggle the panel visibility.
 
 ---
 ### Uninstall
