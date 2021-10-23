@@ -22,8 +22,6 @@ so I wrote this program. Two simple **killall** and **start** commands.
 + `chmod +x show_hide_top_panel.bash`
 + `sudo ./show_hide_top_panel.bash`
 
-done!
-
 ---
 ### Usage
 
