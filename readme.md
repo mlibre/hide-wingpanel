@@ -1,5 +1,5 @@
 # Hide Wingpanel
-Hi, Here is a simple program to manage **hiding** and **showing** the elementary os **Wingpanel**. 
+Hi, Here is a simple program to manage **hiding** and **showing** the elementary os **Wingpanel**.  
 **Wingpanel** is the **top panel** in elementary os.  
 
 I just noticed that some users want to **hide** the **Wingpanel**, and there is no option available to do this.  
@@ -8,9 +8,9 @@ so I wrote this program. Two simple **killall** and **start** commands.
 ## Table of Contents
 + [Install](#install)
 + [Usage](#usage)
-	+[By keyboard shortcut](#By-keyboard-shortcut)
-	+[By hot corners](#By-hot-corners)
-	+[By command](#By-command)
+	* [By keyboard shortcut](#By-keyboard-shortcut)
+	* [By hot corners](#By-hot-corners)
+	* [By command](#By-command)
 + [Uninstall](#uninstall)
 + [License](#license)
 + [Donate](#donate-bitcoin)
