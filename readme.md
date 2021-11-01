@@ -49,7 +49,7 @@ done!
 This project mainly has no license! You may consider this as **Public Domain**, **CC0** or **unlicense**.
 
 ---
-Donate or .... :heartpulse:
+Donate :heartpulse:
 =======
 ETH:
 > 0xc9b64496986E7b6D4A68fDF69eF132A35e91838e
